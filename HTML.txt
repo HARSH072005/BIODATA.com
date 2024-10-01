@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+        .info {
+            margin: 15px 0;
+        }
+        .info strong {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Biodata</h1>
+        <div class="info">
+            <p><strong>Name:</strong> Harsh Parab</p>
+            <p><strong>Date of Birth:</strong> 7 July 2005</p>
+            <p><strong>Occupation:</strong> Student and Gaming enthusiast</p>
+        </div>
+        <p>
+           Hi I am, Harsh Parab an individual with a passion for both Gaming and Learning new skills. As a student, I specialize in finance. curiositsity is my biggest driving force.
+        </p>
+        <p>
+            Beyond my life as a student, I am an gaming enthusiast. Whether it's sports or e-sports, I thrive on adrenaline-fueled activities that push me to new limits. My adventurous spirit complements my problem-solving skills.
+        </p>
+        <p>
+            In my free time, I am avid Tech-guy, particularly interested in game development,animation,VFX ,etc. My positive attitude, technical expertise, and love for gaming make me truly well-rounded individual.
+        </p>
+    </div>
+</body>
+</html>
